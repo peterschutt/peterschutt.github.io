@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+
+site_name: PS, codes.
+theme:
+  name: material
+  palette:
+    primary: white
+  font:
+    text: Zen Antique
+    code: Azaret Mono
+  logo: assets/PS_solid.png
+  favicon: assets/PS_clear.png
+  features:
+    - navigation.tracking
+  icon:
+    repo: fontawesome/brands/git-square
+plugins:
+  - search
+repo_url: https://github.com/peterschutt/peterschutt.github.io
