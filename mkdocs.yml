@@ -28,3 +28,5 @@ theme:
 plugins:
   - search
 repo_url: https://github.com/peterschutt/peterschutt.github.io
+markdown_extensions:
+  - admonition
